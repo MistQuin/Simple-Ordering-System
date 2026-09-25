@@ -1,0 +1,17 @@
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\bin\Debug\net10.0-windows\MidtermLabExam.exe
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\bin\Debug\net10.0-windows\MidtermLabExam.deps.json
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\bin\Debug\net10.0-windows\MidtermLabExam.runtimeconfig.json
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\bin\Debug\net10.0-windows\MidtermLabExam.dll
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\bin\Debug\net10.0-windows\MidtermLabExam.pdb
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\obj\Debug\net10.0-windows\MidtermLabExam.Form1.resources
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\obj\Debug\net10.0-windows\MidtermLabExam.vbproj.GenerateResource.cache
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\obj\Debug\net10.0-windows\MidtermLabExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\obj\Debug\net10.0-windows\MidtermLabExam.AssemblyInfoInputs.cache
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\obj\Debug\net10.0-windows\MidtermLabExam.AssemblyInfo.vb
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\obj\Debug\net10.0-windows\MidtermLabExam.vbproj.CoreCompileInputs.cache
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\obj\Debug\net10.0-windows\MidtermLabExam.dll
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\obj\Debug\net10.0-windows\refint\MidtermLabExam.dll
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\obj\Debug\net10.0-windows\MidtermLabExam.pdb
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\obj\Debug\net10.0-windows\MidtermLabExam.genruntimeconfig.cache
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\obj\Debug\net10.0-windows\ref\MidtermLabExam.dll
+C:\Users\losba\source\repos\MidtermLabExam\MidtermLabExam\obj\Debug\net10.0-windows\MidtermLabExam.Resources.resources
