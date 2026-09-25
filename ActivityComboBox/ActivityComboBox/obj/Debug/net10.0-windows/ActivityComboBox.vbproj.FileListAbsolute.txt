@@ -1,0 +1,17 @@
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\bin\Debug\net10.0-windows\ActivityComboBox.exe
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\bin\Debug\net10.0-windows\ActivityComboBox.deps.json
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\bin\Debug\net10.0-windows\ActivityComboBox.runtimeconfig.json
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\bin\Debug\net10.0-windows\ActivityComboBox.dll
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\bin\Debug\net10.0-windows\ActivityComboBox.pdb
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\obj\Debug\net10.0-windows\ActivityComboBox.Form1.resources
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\obj\Debug\net10.0-windows\ActivityComboBox.vbproj.GenerateResource.cache
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\obj\Debug\net10.0-windows\ActivityComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\obj\Debug\net10.0-windows\ActivityComboBox.AssemblyInfoInputs.cache
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\obj\Debug\net10.0-windows\ActivityComboBox.AssemblyInfo.vb
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\obj\Debug\net10.0-windows\ActivityComboBox.vbproj.CoreCompileInputs.cache
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\obj\Debug\net10.0-windows\ActivityComboBox.dll
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\obj\Debug\net10.0-windows\refint\ActivityComboBox.dll
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\obj\Debug\net10.0-windows\ActivityComboBox.pdb
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\obj\Debug\net10.0-windows\ActivityComboBox.genruntimeconfig.cache
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\obj\Debug\net10.0-windows\ref\ActivityComboBox.dll
+C:\Users\losba\source\repos\ActivityComboBox\ActivityComboBox\obj\Debug\net10.0-windows\ActivityComboBox.Resources.resources
